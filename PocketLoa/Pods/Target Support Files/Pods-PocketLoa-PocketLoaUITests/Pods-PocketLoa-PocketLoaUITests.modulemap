@@ -1,0 +1,6 @@
+framework module Pods_PocketLoa_PocketLoaUITests {
+  umbrella header "Pods-PocketLoa-PocketLoaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
